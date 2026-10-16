@@ -1,0 +1,6 @@
+10-16 14:27:50.485 I/flutter (27521): AppLifecycleState: inactive
+10-16 14:27:51.210 I/flutter (27521): AppLifecycleState: hidden
+10-16 14:27:51.210 I/flutter (27521): AppLifecycleState: paused
+10-16 14:27:55.827 I/flutter (27521): AppLifecycleState: hidden
+10-16 14:27:55.827 I/flutter (27521): AppLifecycleState: inactive
+10-16 14:27:56.017 I/flutter (27521): AppLifecycleState: resumed
